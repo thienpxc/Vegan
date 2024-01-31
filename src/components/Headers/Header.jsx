@@ -4,6 +4,7 @@ export default function Header() {
   return (
     <div>
       Header
+       New updates
     </div>
   )
 }
