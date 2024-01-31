@@ -1,11 +1,10 @@
 import React from 'react'
-import Header from './components/Headers/Header'
-import Footer from './components/Footer/Footer'
+import Routes from './routes/Routes'
+
 export default function App() {
   return (
     <div>
-      <Header></Header>
-      <Footer/>
+      <Routes/>
     </div>
   )
 }
